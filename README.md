@@ -3,7 +3,7 @@
 This packages JumanDic for MeCab for installation via PyPI.
 
 JumanDic is unmaintained and has not been updated in over ten years; this
-package is provided for compatability, but should not be used for new projects.
+package is provided for compatibility, but should not be used for new projects.
 
 ## License
 
